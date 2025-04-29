@@ -25,28 +25,6 @@
 
   
 
-## 🚀 Quick Start
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/resume-builder.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   cd resume-builder
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open in your browser:
-   ```
-   http://localhost:3000
-   ```
 
 ## 🖥️ How It Works
 
