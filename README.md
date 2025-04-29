@@ -1,1 +1,1 @@
-hdjuhkjfsja
+A clean, user-focused web application designed to help users create professional resumes effortlessly. This platform brings together ease of use, customization, and smart automation—making resume creation simple, flexible, and efficient.
